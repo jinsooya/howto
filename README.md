@@ -1,8 +1,6 @@
 ## [파이썬/아니콘다 가상 환경(virtual environment) 구성](virtual-environment.md)
 
-##
-
-##
+- - -
 
 ### More coming...
 
