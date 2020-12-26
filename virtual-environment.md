@@ -12,7 +12,7 @@ Seoul National University
 
 - - -
 
-<h1>Table of Contents<span class="tocSkip"></span></h1>
+<h3>Table of Contents<span class="tocSkip"></span></h3>
 <div class="toc"><ul class="toc-item"><li><span><a href="#가상-환경-구성" data-toc-modified-id="가상-환경-구성-1">가상 환경 구성</a></span><ul class="toc-item"><li><span><a href="#파이썬-환경" data-toc-modified-id="파이썬-환경-1.1">파이썬 환경</a></span></li><li><span><a href="#아나콘다-환경" data-toc-modified-id="아나콘다-환경-1.2">아나콘다 환경</a></span></li></ul></li><li><span><a href="#가상-환경-활성화" data-toc-modified-id="가상-환경-활성화-2">가상 환경 활성화</a></span><ul class="toc-item"><li><span><a href="#파이썬-환경" data-toc-modified-id="파이썬-환경-2.1">파이썬 환경</a></span></li><li><span><a href="#아나콘다-환경" data-toc-modified-id="아나콘다-환경-2.2">아나콘다 환경</a></span></li></ul></li><li><span><a href="#가상-환경-비활성화" data-toc-modified-id="가상-환경-비활성화-3">가상 환경 비활성화</a></span><ul class="toc-item"><li><span><a href="#파이썬-환경" data-toc-modified-id="파이썬-환경-3.1">파이썬 환경</a></span></li><li><span><a href="#아나콘다-환경" data-toc-modified-id="아나콘다-환경-3.2">아나콘다 환경</a></span></li></ul></li></ul></div>
 
 #  가상 환경 구성 
